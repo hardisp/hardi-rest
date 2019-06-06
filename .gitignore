@@ -1,0 +1,8 @@
+*.zip
+*.exe
+*.tar
+*.rar
+*.gz
+
+node_modules
+vendor
